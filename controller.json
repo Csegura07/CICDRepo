@@ -1,0 +1,10 @@
+{
+    "controller": {
+        "url": "http://<replace_IP>:8080",
+        "instances": ["<replace_instanceID>"],
+        "ec2Creds": "ec2.creds",
+        "timeOut": 180,
+        "username": "<replace_username>",
+        "password": "<replace_password>"
+    }
+}
